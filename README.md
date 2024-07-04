@@ -33,4 +33,22 @@ dotnet sln add LeerData/LeerData.csproj
 code .
 ```
 
+## Extensiones de vscode recomendadas para C# y .Net
+``` bash
+C#                     -> Microsoft
+
+[!NOTE]  
+configurar en el setting.json de la extención estas lineas:
+
+[!IMPORTANT]  
+"omnisharp.monoPath": "",
+"omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
+"omnisharp.path": "latest"
+
+
+C# Dev Kit            -> Microsoft
+C# Extensions         -> JosKreativ
+Material Icon Theme   -> Philipp Kief
+
+```
 
