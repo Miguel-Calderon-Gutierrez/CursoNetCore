@@ -34,8 +34,7 @@ code .
 ```
 
 ## Extensiones de vscode recomendadas para C# y .Net
-``` bash
-C#                     -> Microsoft
+### C#                     -> Microsoft
 
 [!NOTE]  
 configurar en el setting.json de la extención estas lineas:
@@ -45,10 +44,8 @@ configurar en el setting.json de la extención estas lineas:
 "omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
 "omnisharp.path": "latest"
 
+### C# Dev Kit            -> Microsoft
+### C# Extensions         -> JosKreativ
+### Material Icon Theme   -> Philipp Kief
 
-C# Dev Kit            -> Microsoft
-C# Extensions         -> JosKreativ
-Material Icon Theme   -> Philipp Kief
-
-```
 
