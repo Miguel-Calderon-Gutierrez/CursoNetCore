@@ -55,3 +55,14 @@ code .
 >[!IMPORTANT]
 > Ir a preferencias, luego consiguraciones(settings) y en C# 
 > configuration quitar el check de Omnisharp: Use modern Net 
+
+## Genera la carpeta .vscode para la ejecución del proyecto 
+  CTRL + SHIFT + P
+``` bash
+.Net: Generate Assets for Build and Debug
+```
+
+## Correr un proyecto
+``` bash
+dotnet run --project LeerData/LeerData.csproj
+```

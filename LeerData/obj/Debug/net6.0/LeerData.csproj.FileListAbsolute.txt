@@ -12,3 +12,4 @@ C:\NetCore\LeerData\obj\Debug\net6.0\refint\LeerData.dll
 C:\NetCore\LeerData\obj\Debug\net6.0\LeerData.pdb
 C:\NetCore\LeerData\obj\Debug\net6.0\LeerData.genruntimeconfig.cache
 C:\NetCore\LeerData\obj\Debug\net6.0\ref\LeerData.dll
+C:\NetCore\LeerData\obj\Debug\net6.0\LeerData.sourcelink.json
