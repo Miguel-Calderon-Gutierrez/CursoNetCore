@@ -40,9 +40,11 @@ code .
 >configurar en el setting.json de la extención estas lineas:
 
 >[!IMPORTANT]  
->"omnisharp.monoPath": "",
->"omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
->"omnisharp.path": "latest"
+``` bash
+"omnisharp.monoPath": "",
+"omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
+"omnisharp.path": "latest"
+```
 
 ### C# Dev Kit            -> Microsoft
 ### C# Extensions         -> JosKreativ
