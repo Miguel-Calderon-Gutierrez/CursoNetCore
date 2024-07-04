@@ -51,7 +51,7 @@ code .
 ### Prettier - Code formatter  -> prettier.io
 ### .NET Install Tool          -> Microsoft
 
-## Consiguración de vscode
+## Configuración de vscode
 >[!IMPORTANT]
 > Ir a preferencias, luego consiguraciones(settings) y en C# 
 > configuration quitar el check de Omnisharp: Use modern Net 
