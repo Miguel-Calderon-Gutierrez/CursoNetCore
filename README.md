@@ -34,7 +34,7 @@ code .
 ```
 
 ## Extensiones de vscode recomendadas para C# y .Net
-### C#                     -> Microsoft
+### C#                         -> Microsoft
 
 >[!NOTE]  
 >configurar en el setting.json de la extención estas lineas:
@@ -45,8 +45,13 @@ code .
 "omnisharp.path": "latest"
 ```
 
-### C# Dev Kit            -> Microsoft
-### C# Extensions         -> JosKreativ
-### Material Icon Theme   -> Philipp Kief
+### C# Dev Kit                 -> Microsoft
+### C# Extensions              -> JosKreativ
+### Material Icon Theme        -> Philipp Kief
+### Prettier - Code formatter  -> prettier.io
+### .NET Install Tool          -> Microsoft
 
-
+## Consiguración de vscode
+>[!IMPORTANT]
+> Ir a preferencias, luego consiguraciones(settings) y en C# 
+> configuration quitar el check de Omnisharp: Use modern Net 
