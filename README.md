@@ -39,7 +39,6 @@ code .
 >[!NOTE]  
 >configurar en el setting.json de la extención estas lineas:
 
->[!IMPORTANT]  
 ``` bash
 "omnisharp.monoPath": "",
 "omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
