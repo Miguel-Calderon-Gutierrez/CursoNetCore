@@ -36,13 +36,13 @@ code .
 ## Extensiones de vscode recomendadas para C# y .Net
 ### C#                     -> Microsoft
 
-[!NOTE]  
-configurar en el setting.json de la extención estas lineas:
+>[!NOTE]  
+>configurar en el setting.json de la extención estas lineas:
 
-[!IMPORTANT]  
-"omnisharp.monoPath": "",
-"omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
-"omnisharp.path": "latest"
+>[!IMPORTANT]  
+>"omnisharp.monoPath": "",
+>"omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
+>"omnisharp.path": "latest"
 
 ### C# Dev Kit            -> Microsoft
 ### C# Extensions         -> JosKreativ
