@@ -1,4 +1,4 @@
-# Curso de NetCore
+# Curso de NetCore Vaxi
 
 ## Versiones del sdk y runtimes de .Net instaladas en tu pc
 ``` bash
