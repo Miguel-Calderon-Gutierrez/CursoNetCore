@@ -66,3 +66,13 @@ code .
 ``` bash
 dotnet run --project LeerData/LeerData.csproj
 ```
+
+
+
+
+
+
+
+
+
+©Copyright Miguel Calderon
