@@ -67,12 +67,14 @@ code .
 dotnet run --project LeerData/LeerData.csproj
 ```
 
-
-
-
-
-
-
-
+## Cambiar version de sdk
+### Ejemplo 1
+``` bash
+dotnet new globaljson --sdk-version 9.0.100-preview.2.24157.14 --force
+```
+### Ejemplo 2
+``` bash
+dotnet new globaljson --sdk-version 3.1.201 --force
+```
 
 ©Copyright Miguel Calderon
